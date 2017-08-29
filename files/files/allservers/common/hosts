@@ -1,0 +1,8 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.12.23 puppet.podrumforum.mk puppet
+192.168.110.1 web1.domain.com  web1
+192.168.110.2 web2.domain.com web2
+192.168.110.51 nfsserver.domain.com nfsserver
+192.168.110.101 sql1.domain.com sql1
+192.168.110.102 sql2.domain.com sql2
